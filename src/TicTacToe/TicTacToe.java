@@ -8,7 +8,7 @@ public class TicTacToe {
         String nombre1, nombre2;
         Ventana vn = new Ventana();
         
-        nombre1 = JOptionPane.showInputDialog(null,"Ingrese el nombre del primer jugador lala");
+        nombre1 = JOptionPane.showInputDialog(null,"Ingrese el nombre del primer jugador");
         nombre2 = JOptionPane.showInputDialog(null,"Ingrese el nombre del segundo jugador");
         
         vn.setLocationRelativeTo(vn);
